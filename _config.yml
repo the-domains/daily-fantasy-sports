@@ -1,7 +1,7 @@
 name: Daily Fantasy Sports
 favicon: null
-layout_spectrum: 0.2628361682873219
-typography_spectrum: 0.8247782699763775
+layout_spectrum: 0.12428
+typography_spectrum: 0.89692
 title: 'We love real-money, daily fantasy sports. Get started today. '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.06015539541840553
-  lightness: 0.3535994964186102
-  saturation: 0.2019180185161531
-  rhythmicContrast: 0.49580501671880484
+    - '#191a1e'
+    - '#70171b'
+    - '#8c4e1b'
+    - '#bc9143'
+    - '#e3df7c'
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
