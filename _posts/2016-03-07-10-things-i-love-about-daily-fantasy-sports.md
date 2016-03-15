@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Why I play real money daily fantasy sports
-datePublished: '2016-03-07T19:47:01.961Z'
-dateModified: '2016-03-07T19:46:47.763Z'
+datePublished: '2016-03-15T09:28:37.620Z'
+dateModified: '2016-03-15T09:28:27.884Z'
 title: 10 things I love about daily fantasy sports
 author: []
+sourcePath: _posts/2016-03-07-10-things-i-love-about-daily-fantasy-sports.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-10-things-i-love-about-daily-fantasy-sports.md
-published: true
 url: 10-things-i-love-about-daily-fantasy-sports/index.html
 _type: Article
 
