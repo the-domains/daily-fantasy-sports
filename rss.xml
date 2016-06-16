@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[We love real-money, daily fantasy sports. Do you? Start loving today. ]]></title>
+        <description><![CDATA[We love real-money, daily fantasy sports. Do you? Start loving today. ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 16 Jun 2016 11:13:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 things I love about daily fantasy sports]]></title>
+            <description><![CDATA[<article><h1>10 things I love about daily fantasy sports</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19190c43de3c193f0bb3749422493319812b7d5c.jpg"></article>]]></description>
+            <link>undefined10-things-i-love-about-daily-fantasy-sports/index.html</link>
+            <guid isPermaLink="false">79f501a1-d446-41b1-85cf-730f535e1af1</guid>
+            <pubDate>Thu, 16 Jun 2016 11:13:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
